@@ -9,6 +9,10 @@ This is an example to show different parts of the Git repository and various com
 
 Simple examples for Git training demos.
 
-## Depolyment
+## Deployment
+
+This is a simple web project, deployment can be on any web server or the local file system.
 
 ## How to Contribute
+
+
