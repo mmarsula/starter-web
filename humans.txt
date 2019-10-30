@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Bugs Bunny	bugs@loonytunes.com  @bugs
 
 # THANKS
 
